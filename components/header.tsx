@@ -29,7 +29,7 @@ export function Header() {
             <Button
               variant="outline"
               size="sm"
-              className="group border-silver/30 text-foreground transition-all duration-300"
+              className="group border-silver/30 text-foreground transition-all duration-300 hover:bg-cyan/90"
               asChild
             >
               <a
@@ -37,11 +37,11 @@ export function Header() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <Github className="mr-2 h-4 w-4 transition-colors" />
-                <span className="hidden sm:inline">GitHub</span>
+                <Github className="h-4 w-4 transition-colors" />
+                <span className="hidden sm:inline ml-2">GitHub</span>
               </a>
             </Button>
-            <Button
+            {/* <Button
               size="sm"
               className="bg-cyan text-background hover:bg-cyan/90 hover:shadow-[0_0_20px_rgba(0,240,255,0.3)] transition-all duration-300"
               asChild
@@ -54,7 +54,7 @@ export function Header() {
                 <Download className="mr-2 h-4 w-4" />
                 <span className="hidden sm:inline">Download</span>
               </a>
-            </Button>
+            </Button> */}
           </div>
         </div>
       </div>
