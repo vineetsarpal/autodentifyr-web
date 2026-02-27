@@ -26,7 +26,7 @@ export function HeroSection() {
 
              <div className="flex flex-wrap gap-4 items-end justify-center lg:justify-start">
               <a
-                href="https://play.google.com/store/apps/details?id=com.autodentifyr.app"
+                href="https://play.google.com/store/apps/details?id=com.vineetsarpal.autodentifyr"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="transition-transform hover:scale-105"
