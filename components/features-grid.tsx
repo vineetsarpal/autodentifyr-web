@@ -11,7 +11,7 @@ const features = [
   {
     icon: Eye,
     title: "Visual Estimates",
-    description: "Live cost overlays for immediate damage assessment directly on your camera feed.",
+    description: "Live baseline cost overlays that provide a starting range for immediate damage assessment.",
   },
   {
     icon: Shield,

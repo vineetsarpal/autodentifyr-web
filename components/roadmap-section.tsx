@@ -7,14 +7,14 @@ const phases = [
     phase: "Phase 1",
     status: "current",
     title: "Core Damage Detection + Cost Estimation",
-    description: "Real-time damage detection with baseline cost estimation models.",
+    description: "Real-time damage detection with baseline cost estimations.",
     icon: CheckCircle2,
   },
   {
     phase: "Phase 2",
     status: "coming",
     title: "Contextual Pricing",
-    description: "Vehicle Make/Model integration for tailored cost estimation.",
+    description: "Vehicle Make/Model/Year integration for tailored cost estimation.",
     icon: Clock,
   },
   {

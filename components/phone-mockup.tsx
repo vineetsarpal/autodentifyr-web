@@ -113,13 +113,13 @@ export function PhoneMockup() {
             
             {/* Cost overlay labels with staggered animation */}
             <div className="absolute top-16 left-4 px-2 py-1 bg-cyan/20 backdrop-blur-sm rounded border border-cyan/50 text-xs font-mono text-cyan animate-[fadeInScale_0.8s_ease-out_1s_forwards]" style={{ opacity: 0 }}>
-              Dent: $180-$320
+              Headlight: $400
             </div>
             <div className="absolute top-32 right-4 px-2 py-1 bg-cyan/20 backdrop-blur-sm rounded border border-cyan/50 text-xs font-mono text-cyan animate-[fadeInScale_0.8s_ease-out_1.6s_forwards]" style={{ opacity: 0 }}>
-              Scratch: $90-$150
+              Door: $500
             </div>
             <div className="absolute bottom-20 right-4 px-2 py-1 bg-cyan/20 backdrop-blur-sm rounded border border-cyan/50 text-xs font-mono text-cyan animate-[fadeInScale_0.8s_ease-out_2.2s_forwards]" style={{ opacity: 0 }}>
-              Bumper: $250-$400
+              Bumper: $550
             </div>
             
             {/* Bottom HUD */}

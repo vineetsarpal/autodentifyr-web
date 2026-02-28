@@ -38,7 +38,7 @@ export function HowItWorks() {
             <span className="text-cyan">Works</span>
           </h2>
           <p className="text-lg text-silver max-w-2xl mx-auto">
-            Choose your preferred way to analyze car damage. Both modes provide instant AI-powered detection and cost estimates.
+            Choose your preferred way to analyze car damage. Both modes provide instant AI-powered detection and baseline cost estimates.
           </p>
         </div>
 
@@ -121,7 +121,7 @@ export function HowItWorks() {
                   Get Estimates
                 </h4>
                 <p className="text-silver text-sm">
-                  Receive instant cost estimations based on damage analysis
+                  Receive instant baseline cost estimations based on damage analysis
                 </p>
               </div>
             </div>
