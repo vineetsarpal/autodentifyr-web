@@ -10,10 +10,9 @@ const _jetbrainsMono = JetBrains_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'Autodentifyr | AI-Powered Car Damage Detection',
   description: 'Professional-grade car damage detection and cost estimation, powered by on-device AI. Privacy-first, real-time, and offline.',
-  generator: 'v0.app',
   icons: {
-    icon: '/logo.png',
-    apple: '/logo.png',
+    icon: '/logo.svg',
+    apple: '/logo.svg',
   },
 }
 
